@@ -1,0 +1,14 @@
+body{
+    background-position: center;
+    background-size: cover;
+    font-family: cursive;
+}
+h1{
+    font-size: 35px;
+    color: azure;
+}
+a{
+    background-color: lightskyblue;
+    width: 20%;
+    color: black;
+}
